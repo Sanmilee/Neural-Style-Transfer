@@ -1,6 +1,5 @@
 # Neural-Style-Transfer
 Creating Art from Images Using Convolutional Neural Network
 
-A simple digital image processing technique of segmenting images into grayscale and binary images.
-
+Sytle transfer of an image of a baby dragon and the ship wreckage of the Minotaur
 ![images1](result1.jpg)
